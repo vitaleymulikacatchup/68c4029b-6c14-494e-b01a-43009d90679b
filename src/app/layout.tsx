@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { ThemeProvider } from '@/providers/ThemeProvider';
 import {
   Inter_Tight,
   Playfair_Display,
